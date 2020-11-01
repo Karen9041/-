@@ -18,11 +18,31 @@ header{
     height: 80px;
     margin:16px 600px 74px 600px;
 }
+.header-icon{
+    object-fit: contain;
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.ic_login{
+    margin-top: 2px;
+    margin-right: 110px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
 .nav-list{
     list-style-type: none;
     text-align:center;
 }
 .nav-list-item{
+    display: inline-block;
+    width: calc((100%-30px)/6);
+    margin-top: 100px;
+}
+.nav-list-item:hover{
     display: inline-block;
     width: calc((100%-30px)/6);
     margin-top: 100px;
