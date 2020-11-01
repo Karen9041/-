@@ -1,0 +1,40 @@
+body{
+    width: 1280px;
+    margin: auto;
+}
+header{
+    display: block;
+    width: 1280px;
+    position: fixed;
+    position: absolute;
+    height: 170px;
+    background: #99D3D0;
+    margin: auto
+}
+.LOGO{
+    position: absolute;
+    object-fit: contain;
+    width: 80px;
+    height: 80px;
+    margin:16px 600px 74px 600px;
+}
+.nav-list{
+    list-style-type: none;
+    text-align:center;
+}
+.nav-list-item{
+    display: inline-block;
+    width: calc((100%-30px)/6);
+    margin-top: 100px;
+}
+.nav-list-item-btn{
+    color: #000;
+    text-decoration: none;
+    display: block;
+    width: 128px;
+    height: 45px;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    font-size: 24px;
+    line-height: 45px;
+}
