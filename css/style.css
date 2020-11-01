@@ -28,7 +28,16 @@ header{
     margin-top: 100px;
 }
 .nav-list-item-btn{
-    color: #000;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 128px;
+    height: 45px;
+    font-size: 24px;
+    line-height: 45px;
+}
+.nav-list-item-btn:hover{
+    color: #000000;
     text-decoration: none;
     display: block;
     width: 128px;
@@ -38,3 +47,27 @@ header{
     font-size: 24px;
     line-height: 45px;
 }
+.nav-sublist{
+    list-style-type: none;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+.nav-sublist-item{
+    display: block;
+    border: 1px solid  #99D3D0;
+    display: none;
+}
+.nav-list-item-link{
+    color:  #000000;
+    text-decoration: none;
+    display: block;
+    width: 128px;
+    height: 45px;
+    font-size: 18px;
+    line-height: 45px;
+    background: rgba(255, 255, 255, 0.7);
+    margin-top: 10px;
+}
+
