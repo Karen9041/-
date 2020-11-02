@@ -1,0 +1,86 @@
+.Purchase{
+    display: block;
+    width: 457px;
+    height: 457px;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 77px;
+}
+.purchase_pic{
+    position: absolute;
+}
+#purchase_banner{
+    list-style-type: none;
+    position: absolute;
+    margin-top: 725px;
+    margin-left: 180px;
+}
+.littlepic{
+    display: inline-block;
+    width: 57px;
+    height: 57px;
+    cursor:pointer;
+}
+.Purchase_text{
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 592px;
+}
+.Purchase_name{
+    width: 564px;
+    height: 42px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #B28E6A;
+}
+.Purchase_Price{
+    margin-left: 15px;
+    margin-top: 41px;
+    width: 128px;
+    height: 42px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #B28E6A;
+}
+.Purchase_Dscribe{
+    margin-left: 15px;
+    margin-top: 41px;
+    width: 568px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #696A6A;
+}
+.Purchase_Botton{
+    position: absolute;
+    margin-left: 616px;
+    margin-top: 623px;
+    list-style-type: none;
+    text-align:center;
+}
+.Purchase_Botton_link{
+    display: inline-block;
+    width: 212px;
+    height: 66px;
+}
+.Purchase_Shopping{
+    background: #FFFFFF;
+    border: 2px solid #99D3D0;
+    margin-right: 35px;
+}
+.Purchase_Buy{
+    background: #99D3D0;
+    border: 2px solid #99D3D0;
+    margin-left: 35px;
+}
+.Purchase_Botton_words{
+    text-decoration: none;
+    width: 212px;
+    font-size: 24px;
+    line-height: 66px;
+}
+.Purchase_Shopping_words{
+    color: #99D3D0;
+}
+.Purchase_Buy_words{
+    color: #FFFFFF;
+}
