@@ -5,7 +5,6 @@ body{
 header{
     display: block;
     width: 1280px;
-    position: fixed;
     position: absolute;
     height: 170px;
     background: #99D3D0;
@@ -90,4 +89,49 @@ header{
     background: rgba(255, 255, 255, 0.7);
     margin-top: 10px;
 }
-
+.camera{
+    display: block;
+    width: 1280px;
+    height: 514px;
+    position: absolute;
+    margin-top: 170px;
+    background: #E9E7E7;
+    /* overflow: hidden; */
+}
+.pic{
+    
+    list-style-type: none;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+.camera_pic{
+    position: absolute;
+}
+.banner_point{
+    list-style-type: none;
+    position: absolute;
+    margin-top: 705px;
+    margin-left: 568px;
+}
+.banner .pic li{
+    height:512px;
+    width:1280px;
+    float:left
+}
+.point{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border-radius: 999em;
+    background-color: #C4C4C4;
+}
+.point:hover{
+    background-color:#8B8989;
+}
+.point_btn{
+    display: block;
+    width: 18px;
+    height: 18px;
+    border-radius: 999em;
+}
