@@ -83,6 +83,7 @@ main{
     display: block;
     border: 1px solid  #99D3D0;
     display: none;
+    position: absolute;
 }
 .nav-list-item-link{
     color:  #000000;
@@ -94,6 +95,7 @@ main{
     line-height: 45px;
     background: rgba(255, 255, 255, 0.7);
     margin-top: 10px;
+    position: absolute;
 }
 .camera{
     display: block;
@@ -102,7 +104,6 @@ main{
     position: absolute;
     margin-top: 170px;
     background: #E9E7E7;
-    /* overflow: hidden; */
 }
 .camera_pic{
     position: absolute;
