@@ -1,0 +1,115 @@
+.Page2_title{
+    position: absolute;
+    width: 192px;
+    height: 56px;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #B28E6A;
+    margin-top: 200px;
+    margin-left: 87px;
+}
+.nav2-list{
+    list-style-type: none;
+    text-align:center;
+}
+.nav2-list-item{
+    display: inline-block;
+    width: calc(1090px/6);
+    margin-top: 309px;
+}
+.nav2-list-item-link{
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #B28E6A;
+}
+.nav2-list-line{
+    text-decoration: none;
+    display: inline-block;
+    margin: 19px;
+    margin-top: -5px;
+    width: 143px;
+    height: 0px;
+    border: 1px solid #000000;
+}
+.Product-list{
+    margin-top: 74px;
+    list-style-type: none;
+    text-align:center;
+}
+.Product-list-item{
+    display: inline-block;
+    width: calc(1190px/4);
+}
+.Product-list2{
+    margin-top: 241px;
+    list-style-type: none;
+    text-align:center;
+}
+.Product-list-item2{
+    display: inline-block;
+    margin-left: 100px;
+}
+.Product-list-info{
+    position: absolute;
+    list-style-type: none;
+    width: 234px;
+    height: 46px;
+    margin-left: -15px;
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+.Product-list-words{
+    text-decoration: none;
+    color: #B28E6A;
+}
+.Product-list-price{
+    margin-top: 16px;
+    margin-left: 88px;
+    width: 64px;
+    height: 21px;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+.Product-list-button{
+    position: absolute;
+    width: 152px;
+    height: 45px;
+    background: #99D3D0;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 44px;
+    margin-top: 47px;
+}
+.Product-list-purchase{
+    text-decoration: none;
+    font-size: 18px;
+    width: 152px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.Product-list-info2{
+    position: absolute;
+    list-style-type: none;
+    width: 234px;
+    height: 46px;
+    margin-left: -60px;
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+.footer2{
+    position: absolute;
+    width: 1280px;
+    height: 277px;
+    margin-left: 0px;
+    margin-top: 283px;
+    background: #99D3D0;
+}

@@ -35,9 +35,7 @@ header{
     right: 0;
     top: 0;
 }
-main{
-    background:#E5E5E5;
-}
+
 .nav-list{
     list-style-type: none;
     text-align:center;
@@ -78,12 +76,13 @@ main{
     margin: 0;
     padding: 0;
     position: absolute;
+    margin-top: 9px;
+    background-color:rgba(255, 255, 255, 1) ;
 }
 .nav-sublist-item{
     display: block;
     border: 1px solid  #99D3D0;
-    display: none;
-    position: absolute;
+    background-color:rgba(255, 255, 255, 1)
 }
 .nav-list-item-link{
     color:  #000000;
@@ -95,7 +94,6 @@ main{
     line-height: 45px;
     background: rgba(255, 255, 255, 0.7);
     margin-top: 10px;
-    position: absolute;
 }
 .camera{
     display: block;
@@ -103,7 +101,6 @@ main{
     height: 514px;
     position: absolute;
     margin-top: 170px;
-    background: #E9E7E7;
 }
 .camera_pic{
     position: absolute;
