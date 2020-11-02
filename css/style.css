@@ -207,6 +207,87 @@ footer{
     background: #99D3D0;
 }
 .LOGO_footer{
-    margin-top: 1937px;
+    margin-top: 87px;
     margin-left: 80px;
+}
+.ic_footer{
+    position: absolute;
+    object-fit: contain;
+    height: 25px;
+    width: 25px;
+}
+.ic_fb{
+    margin-top: 214px;
+    margin-left: 56px;
+}
+.ic_line{
+    margin-top: 214px;
+    margin-left: 106px;
+}
+.ic_ig{
+    margin-top: 214px;
+    margin-left: 155px;
+}
+.footer_title{
+    font-size: 24px;
+    line-height: 28px;
+    color: #B28E6A;
+    position: absolute;
+}
+.footer_words{
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFDFD;
+}
+.about_us{
+    width: 102px;
+    height: 28px;
+    margin-top: 59px;
+    margin-left: 289px;
+
+}
+.footer_words_area{
+    position: absolute;
+    margin-top: 90px;
+}
+.about_us_item{
+    margin-left: 310px;
+    padding: 10px;
+}
+.ic_about_us{
+    margin-left: -30px;
+}
+
+.shopping_info{
+    width: 149px;
+    height: 150px;
+    margin-top: 59px;
+    margin-left: 705px;
+}
+.shopping_info_item{
+    margin-left: 695px;
+    padding: 10px;
+}
+.web_info{
+    width: 102px;
+    height: 28px;
+    margin-top: 59px;
+    margin-left: 986px;
+}
+.web_info_item{
+    margin-left: 978px;
+    padding: 10px;
+}
+.Copyright{
+    margin-top: 241px;
+    margin-left: 469px;
+    position: absolute;
+    width: 343px;
+    height: 21px;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
 }
