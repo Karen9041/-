@@ -15,7 +15,10 @@ header{
     object-fit: contain;
     width: 80px;
     height: 80px;
-    margin:16px 600px 74px 600px;
+}
+.LOGO_header{
+    margin-top:17px;
+    margin-left: 600px;
 }
 .header-icon{
     object-fit: contain;
@@ -31,6 +34,9 @@ header{
     position: absolute;
     right: 0;
     top: 0;
+}
+main{
+    background:#E5E5E5;
 }
 .nav-list{
     list-style-type: none;
@@ -105,7 +111,7 @@ header{
     list-style-type: none;
     position: absolute;
     margin-top: 705px;
-    margin-left: 568px;
+    margin-left: 550px;
 }
 .point{
     display: inline-block;
@@ -117,4 +123,90 @@ header{
 }
 .active{
     background-color:#8B8989;
+}
+.Product{
+    position: absolute;
+    width: 96px;
+    height: 56px;
+    color: #99D3D0;
+    font-size: 48px;
+    margin-top: 790px;
+    margin-left: 596px;
+    line-height: 56px;
+}
+.MORE{
+    text-decoration: none;
+    position: absolute;
+    height: 28px;
+    margin-top: 850px;
+    margin-left: 1093px;
+    color: #99D3D0;
+    line-height: 28px;
+    font-size: 24px;
+}
+.ic_MORE{
+    position: absolute;
+    object-fit: contain;
+    height:26px;
+    width:26px;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+.product_link{
+    text-decoration: none;
+    position: absolute;
+    width: 144px;
+    height: 28px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #99D3D0;
+}
+.product_link1{
+    margin-left: 274px;
+    margin-top: 1283px;
+}
+.product_link2{
+    margin-left: 861px;
+    margin-top: 1283px;
+}
+.product_link3{
+    margin-left: 274px;
+    margin-top: 1725px;
+}
+.product_link4{
+    margin-left: 885px;
+    margin-top: 1725px;
+}
+.img_product{
+    position: absolute;
+    height: 329px;
+    width: 500px;
+}
+.img_product1{
+    margin-top: 926px;
+    margin-left: 96px;
+}
+.img_product2{
+    margin-top: 926px;
+    margin-left: 683px;
+}
+.img_product3{
+    margin-top: 1364px;
+    margin-left: 96px;
+}
+.img_product4{
+    margin-top: 1364px;
+    margin-left: 683px;
+}
+footer{
+    position: absolute;
+    width: 1280px;
+    height: 277px;
+    margin-left: 0px;
+    margin-top: 1850px;
+    background: #99D3D0;
+}
+.LOGO_footer{
+    margin-top: 1937px;
+    margin-left: 80px;
 }
