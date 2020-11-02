@@ -3,6 +3,7 @@ body{
     margin: auto;
 }
 header{
+    top:0;
     display: block;
     width: 1280px;
     position: absolute;
