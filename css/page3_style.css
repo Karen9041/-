@@ -84,3 +84,47 @@
 .Purchase_Buy_words{
     color: #FFFFFF;
 }
+.Introduction{
+    margin-top: 887px;
+    margin-left: 134px;
+    position: absolute;
+}
+.area_title{
+    width: 144px;
+    height: 42px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #696A6A;
+}
+.Introduction_discription{
+    margin-top: 36px;
+    width: 666px;
+    height: 50px;
+    font-size: 18px;
+    line-height: 21px;
+    color: #B28E6A;
+}
+.bigimg{
+    padding: 0;
+    list-style-type: none;
+}
+.bigimg1{
+    margin-top: 34px;
+}
+.bigimg2{
+    margin-top: 34px;
+}
+.Reference{
+    position: absolute;
+    margin-top: 2221px;
+    margin-left: 134px;
+}
+.Customer_Reference{
+    width: 800px;
+    height: 883px;
+    object-fit: contain;
+}
+.footer3{
+    position: absolute;
+    margin-top: 3250px;
+}
