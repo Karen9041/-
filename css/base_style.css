@@ -11,6 +11,11 @@ header{
     background: #99D3D0;
     margin: auto
 }
+.font-style{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
 .LOGO{
     position: absolute;
     object-fit: contain;
